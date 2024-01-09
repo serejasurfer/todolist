@@ -4,9 +4,11 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+body{
+    background: linear-gradient(135deg, rgb(28, 151, 233), #ff5945);
+}
 .background{
     width: 100%;
-    background: linear-gradient(135deg, rgb(28, 151, 233), #ff5945);
     min-height: 100vh;
     padding: 10px;
 }

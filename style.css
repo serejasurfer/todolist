@@ -5,10 +5,11 @@
     box-sizing: border-box;
 }
 html, body{
+    position: relative;
     overflow: hidden;
+    background: linear-gradient(135deg, rgb(28, 151, 233), #ff5945);
 } 
 .background{
-    background: linear-gradient(135deg, rgb(28, 151, 233), #ff5945);
     width: 100%;
     min-height: 100vh;
     padding: 10px;

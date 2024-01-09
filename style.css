@@ -14,8 +14,6 @@ body{
     overscroll-behavior: none;
     background: linear-gradient(135deg, rgb(28, 151, 233), #ff5945);
     background-size: cover;
-    
-
 }
 .background{
     width: 100%;

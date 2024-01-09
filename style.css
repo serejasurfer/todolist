@@ -6,10 +6,9 @@
 }
 .background{
     background: linear-gradient(135deg, rgb(28, 151, 233), #ff5945);
-    bottom: 0;
     width: 100%;
     min-height: 100vh;
-    padding: 0px 10px 10px 10px;
+    padding: 10px;
 }
 .todo-app{
     width: 100%;

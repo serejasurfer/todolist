@@ -4,17 +4,17 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+html{
+    overflow: hidden;
+    height: 100%;
+}
 body{
+    overflow: auto;
+    height: 100%;
+    overscroll-behavior: none;
     background: linear-gradient(135deg, rgb(28, 151, 233), #ff5945);
-    transform: translate3d(0,0,0);
-    -webkit-transform: translate3d(0,0,0);
-    -moz-transform: translate3d(0,0,0);
-    -ms-transform: translate3d(0,0,0);
-    -o-transform: translate3d(0,0,0);
-    background-position: center bottom;
-    background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
+
 }
 .background{
     width: 100%;

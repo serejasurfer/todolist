@@ -4,6 +4,9 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+body{
+    touch-action: none;
+}
 .background{
     width: 100%;
     min-height: 100vh;

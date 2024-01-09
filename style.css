@@ -4,21 +4,23 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
-html, body{
-    position: relative;
+body{
     overflow: hidden;
-    background: linear-gradient(135deg, rgb(28, 151, 233), #ff5945);
-} 
+}
 .background{
+    background: linear-gradient(135deg, rgb(28, 151, 233), #ff5945);
+    position: absolute;
+    top: -50px;
+    bottom: 0;
     width: 100%;
     min-height: 100vh;
-    padding: 10px;
+    padding: 0px 10px 10px 10px;
 }
 .todo-app{
     width: 100%;
     max-width: 540px;
     background: #fff;
-    margin: 100px auto 20px;
+    margin: 150px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
 }

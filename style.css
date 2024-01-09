@@ -6,11 +6,11 @@
 }
 body{
     touch-action: none;
+    background: linear-gradient(135deg, rgb(28, 151, 233), #ff5945);
 }
 .background{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, rgb(28, 151, 233), #ff5945);
     padding: 10px;
 }
 .todo-app{

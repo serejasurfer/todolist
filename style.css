@@ -95,6 +95,14 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+@media all and (max-width:599px){
+    input, select, textarea{
+        font-size: 16px;
+    }
+    .row{
+        padding-left: 10px;
+    }
+}
 @media all and (max-width:370px){
     input{
         min-width: 100px;

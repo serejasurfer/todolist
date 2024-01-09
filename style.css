@@ -12,7 +12,7 @@ body{
     overflow: auto;
     height: 100%;
     overscroll-behavior: none;
-    background: linear-gradient(135deg, #1f68dd, #7c1f15);
+    background: linear-gradient(180deg, #1f68dd, #7c1f15);
     background-size: cover;
 }
 .background{

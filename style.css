@@ -4,13 +4,8 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
-body{
-    overflow: hidden;
-}
 .background{
     background: linear-gradient(135deg, rgb(28, 151, 233), #ff5945);
-    position: absolute;
-    top: -50px;
     bottom: 0;
     width: 100%;
     min-height: 100vh;
